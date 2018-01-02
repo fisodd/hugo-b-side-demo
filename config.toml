@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hugo B-side"
+
+SectionPagesMenu = "main"
+
+theme = "hugo-b-side"
+
+[params]
+   #author = "William Shakespeare"
