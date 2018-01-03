@@ -5,7 +5,7 @@ description = "What settings are available for Hugo B-side."
 date = "Sat Dec 30 22:23:34 PST 2017"
 categories = ["Demo"]
 tags = ["config", "theme", "Hugo"]
-weight = 3
+weight = 5
 
 +++
 

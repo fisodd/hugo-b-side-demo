@@ -5,7 +5,7 @@ description: "Using reStructuredText in Hugo, and why."
 date: "Sat Dec 30 09:58:38 PST 2017"
 categories: [ "Demo" ]
 tags: [ "Hugo", "reStructuredText", "markup" ]
-weight: 1
+weight: 2
 
 ---
 
@@ -26,6 +26,8 @@ OK.  So what?...
 .. This is a comment, or what a comment looks like in reStructuredText.
    This comment is here to note that the line above is a link target
    for the link later in the text that references the pull quote just below.
+
+.. _pullquotes:
 
 .. class:: fullwidth
 
@@ -71,6 +73,9 @@ One that wraps text around images flushed either to the right or the left,
 and supports more formal figures when images need annotations.
 
 .. [*] This is a sidenote.
+
+.. _footnotes:
+.. _citations:
 
 One that also manages citations [ReST]_, footnotes\ [#]_,
 and even sidenotes\ [*]_ expertly,

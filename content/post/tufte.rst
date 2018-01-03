@@ -1,10 +1,12 @@
 +++
-date = "2017-12-07T11:37:45-07:00"
+date = "Tue Jan  1 13:34:19 PST 2018"
 title = "Tufte Example"
+author = "Alexander Carlton"
 description = "An adaptation of the Tufte CSS sample page implemented in reStructuredText."
 categories = [ "Web" ]
 tags = [ "Tufte", "CSS", "reStructuredText" ]
 type = "post"
+weight = 1
 
 +++
 
@@ -221,6 +223,8 @@ Credit goes to Adam Schwartz for the technique |--|
 we are impressed, and grateful.
 
 
+.. _epigraphs:
+
 Epigraphs
 *********
 
@@ -259,6 +263,8 @@ with and without a paragraph tag,
 and showing how multiple quotes within an epigraph
 fit together with the use of a single directive.
 
+
+.. _sidenotes:
 
 Sidenotes: Footnotes and Marginal Notes
 ***************************************
@@ -372,6 +378,8 @@ can be found in
 of [ReST]_.
 
 
+.. _figures:
+
 Figures
 *******
 
@@ -478,6 +486,8 @@ In markup:
 
       Figurative map of the successive losses of the French Army ...
   
+
+.. _code:
 
 Code
 ****

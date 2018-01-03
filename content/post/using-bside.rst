@@ -5,9 +5,11 @@ description = "An introduction to using reStructuredText with Hugo B-side."
 date = "Sat Dec 30 09:59:24 PST 2017"
 categories = ["Demo"]
 tags = ["reStructuredText", "responsive", "theme", "markup"]
-weight = 2
+weight = 3
 
 +++
+
+.. _contents:
 
 .. class:: sidebar
 
@@ -66,6 +68,8 @@ covered in that demonstration page.
 
 reStructuredText Background
 ***************************
+
+.. _images:
 
 .. figure:: /img/rst-rotated.png
    :align: left
@@ -223,6 +227,8 @@ on the relatively simple needs of blog-centric Hugo |--|
 with the added feature of a responsive page design
 that will adapt the elements to suit each browser environment.
 
+.. _admonitions:
+
 .. note::
    :class: sidebar narrow align-left
 
@@ -277,6 +283,8 @@ images may spill out beyond the figure to either obscure the other
 content or run off the far edge of the page.
 
 
+.. _sidebars:
+
 Sidebars
 ========
 
@@ -321,6 +329,8 @@ to instead become floating elements beside the main body of content.
    This table is moved to the sidebar.
    Potentially useful if the content is skinny,
    such as the following table.
+
+   .. _math:
 
    ===== ====
    Num   Word
@@ -593,6 +603,8 @@ in a
 `sidebar <http://docutils.sourceforge.net/docs/ref/rst/directives.html#sidebar>`__
 and will use this responsive form in those cases.
 
+
+.. _tables:
 
 Responsive Tables
 -----------------
