@@ -65,7 +65,7 @@ but has been influenced by his writings.
 The development of the this theme has also been influenced
 by other projects which have spun out of the Tufte CSS work, 
 with the most obvious alternative contributions coming from
-`Envisioned CSS <http://nogginfuel.com/envisioned-css/>`_.
+`Envisioned CSS <https://github.com/nogginfuel/envisioned-css>`__.
 
 Those interested in a pure CSS implementation following Tufte's designs
 are encouraged to consider the excellent Tufte CSS project.
@@ -167,7 +167,7 @@ careful use in figures and images.
 In print, Tufte has used the proprietary Monotype Bembo\ [1]_ font.
 Here we break from the Tufte guidance,
 and follow closer to the approach championed by
-`Envisioned CSS <http://nogginfuel.com/envisioned-css/>`_.
+`Envisioned CSS <https://github.com/nogginfuel/envisioned-css>`__.
 The B-side theme is based on the Google ``Roboto`` font.
 Arguably not as nice as Bembo or even
 the now open-source
@@ -526,8 +526,8 @@ for a fixed-width font consistent with the base font.
 Epilogue
 ********
 
-Many thanks go to Edward Tufte for leading the way with his work.
-And without the fine work of Dave Liepmann and his Tufte CSS project
+Many thanks go to Edward Tufte for showing the way with his work.
+And without the great efforts of Dave Liepmann and his Tufte CSS project
 we would not have known even where to begin.
 Any problems with this material
 stem from failures in my implementation
